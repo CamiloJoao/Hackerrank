@@ -4,8 +4,6 @@ function staircase(n) {
         const simbolos = '#'.repeat(i);
         console.log(espacos + simbolos);
     }
-        
-
 }
 
 
